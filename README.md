@@ -47,4 +47,4 @@ Thanks to [Frontend Mentor](https://www.frontendmentor.io) for providing the cha
 
 ## Contact
 
-If you have any questions or comments, please feel free to reach out to me via [email](mailto:youremail@example.com) or [Twitter](https://twitter.com/your-twitter-handle).
+If you have any questions or comments, please feel free to reach out to me via [email](mailto:boufaroujmarouan@gmail.com) or [Twitter](https://twitter.com/grainmee).
