@@ -19,14 +19,9 @@ Frontend Mentor is a platform that provides a series of challenges to help impro
 
 | Challenge                                                                                                            | Live Preview                                                                                                                         |
 | -------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
-| [Four Card Feature Section](./four-card-feature-section)                                                             | [Live Preview](https://frontend-mentor-challenges-seven.vercel.app/four-card-feature-section/)                                       |
-| [Base Apparel Coming Soon](./base-apparel-coming-soon)                                                               | [Live Preview](https://frontend-mentor-challenges-seven.vercel.app/base-apparel-coming-soon/)                                         |
-| [Single Price Grid Component](./single-price-grid-component)                                                         | [Live Preview](https://frontend-mentor-challenges-seven.vercel.app/single-price-grid-component/)                                     |
-| [Ping Single Column Coming Soon Page](./ping-single-column-coming-soon-page)                                           | [Live Preview](https://frontend-mentor-challenges-seven.vercel.app/ping-single-column-coming-soon-page/)                             |
-| [Huddle Landing Page with Alternating Feature Blocks](./huddle-landing-page-with-alternating-feature-blocks)         | [Live Preview](https://frontend-mentor-challenges-seven.vercel.app/huddle-landing-page-with-alternating-feature-blocks/)           |
-| [Fylo Dark Theme Landing Page](./fylo-dark-theme-landing-page)                                                         | [Live Preview](https://frontend-mentor-challenges-seven.vercel.app/fylo-dark-theme-landing-page/)                                   |
-| [Huddle Landing Page with Single Introductory Section](./huddle-landing-page-with-single-introductory-section)       | [Live Preview](https://frontend-mentor-challenges-seven.vercel.app/huddle-landing-page-with-single-introductory-section/)         |
-| [Fylo Landing Page with Two Column Layout](./fylo-landing-page-with-two-column-layout)                                 | [Live Preview](https://frontend-mentor-challenges-seven.vercel.app/fylo-landing-page-with-two-column-layout/)                         |
+| [Results summary component](./four-card-feature-section)                                                             | [Live Preview](https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV)                                       |
+| [NFT preview card component](./base-apparel-coming-soon)                                                               | [Live Preview](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U)                                         |
+| [Single Price Grid Component](./Challenge00)                                                         | [Live Preview](https://frontend-mentor-challenges-seven.vercel.app/single-price-grid-component/)                                     |
 
 ## Technologies Used
 
