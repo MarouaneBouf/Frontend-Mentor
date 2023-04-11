@@ -1,0 +1,148 @@
+/* Importing fonts from google  */
+@import url("https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@300;700&display=swap");
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+
+/* ------------------------------------- */
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+#card {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: hsl(204, 43%, 93%);
+  width: 100vw;
+  height: 100vh;
+}
+
+.left-section > h3 {
+  padding-bottom: 0.7rem;
+}
+
+.top-section > p {
+  padding-top: 0.6rem;
+  color: hsl(218, 22%, 67%);
+}
+
+.top-section > h2 {
+  color: hsl(179, 62%, 43%);
+}
+
+.top-section > h3 {
+  padding-top: 1rem;
+  color: hsl(71, 73%, 54%);
+}
+
+body {
+  font-family: "Source Sans Pro", sans-serif;
+  font-size: 16px;
+}
+
+.container {
+  box-shadow: 0px 2px 13px 2px rgba(0, 0, 0, 0.29);
+  /* margin: 2rem; */
+  box-sizing: content-box;
+  width: 700px;
+  height: 500px;
+  border-radius: 0.8rem;
+  overflow: hidden;
+  /* border: 5px solid rgb(255, 60, 0); */
+}
+
+.top-section {
+  padding: 3rem;
+  width: 800px;
+  height: 200px;
+  background-color: hsl(0, 0%, 98%);
+}
+
+.bottom-section {
+  display: flex;
+  /* background-color: blueviolet; */
+}
+
+.left-section {
+  padding: 3rem;
+  color: white;
+  width: 400px;
+  height: 300px;
+  background-color: hsl(179, 62%, 43%);
+}
+
+.right-section {
+  padding: 3rem;
+  color: white;
+  width: 400px;
+  height: 300px;
+  background-color: hsl(179, 58%, 54%);
+}
+
+.right-section > ul {
+  padding-top: 1rem;
+  list-style-type: none;
+}
+
+li {
+  font-size: 15px;
+  padding-top: 0.3rem;
+}
+
+#subscription {
+  font-weight: 700;
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+#price {
+  font-family: "Source Sans Pro", sans-serif;
+  font-weight: 600;
+  font-size: 32px;
+}
+
+#period {
+  color: hsl(0, 0%, 90%);
+}
+
+button {
+  cursor: pointer;
+  box-shadow: 0px 2px 10px 2px rgba(0, 0, 0, 0.19);
+  border-style: none;
+  border-radius: 0.3rem;
+  font-family: "Source Sans Pro", sans-serif;
+  font-weight: 600;
+  font-size: 15px;
+  margin-top: 2rem;
+  height: 2.9rem;
+  width: 14rem;
+  text-align: center;
+  color: white;
+  background-color: hsl(71, 73%, 54%);
+}
+
+button:hover {
+  cursor: pointer;
+  box-shadow: 0px 2px 10px 2px rgba(0, 0, 0, 0.19);
+  border-style: none;
+  border-radius: 0.3rem;
+  font-family: "Source Sans Pro", sans-serif;
+  font-weight: 600;
+  font-size: 15px;
+  margin-top: 2rem;
+  height: 2.9rem;
+  width: 14rem;
+  text-align: center;
+  color: white;
+  background-color: transparent;
+}
