@@ -1,0 +1,111 @@
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+
+/*-----------------------*/
+
+/* Import Fonts from google fonts */
+
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@500;700&family=Playfair+Display:wght@700&display=swap");
+
+/* Custom CSS */
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+#body {
+  background-color: hsl(30, 38%, 92%);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+#container {
+  overflow: hidden;
+  border-radius: 1rem;
+  display: flex;
+  height: 30rem;
+  width: 40rem;
+}
+
+#left-side {
+  align-items: center;
+  height: 30rem;
+  width: 20rem;
+  background-color: aqua;
+}
+
+#right-side {
+  padding-top: 2rem;
+  padding-left: 2rem;
+  height: 30rem;
+  width: 20rem;
+  background-color: hsl(0, 0%, 100%);
+}
+
+#name {
+  font-family: "Zodiak", serif;
+  font-weight: 800;
+  font-size: 30px;
+  margin-bottom: 1rem;
+  letter-spacing: -0.5px;
+  line-height: 31px;
+  color: rgba(0, 0, 0, 0.788);
+}
+
+p {
+  margin-bottom: 1rem;
+  margin-right: 1rem;
+  font-family: "Montserrat", sans-serif;
+  font-size: 15px;
+  line-height: 25px;
+  color: hsl(0, 0%, 60%);
+}
+
+h3 {
+  letter-spacing: 7px;
+  color: hsl(0, 0%, 72%);
+  font-family: "Montserrat", sans-serif;
+  font-size: 13px;
+  font-weight: 500;
+  margin-bottom: 1rem;
+}
+
+#price-tag {
+  display: flex;
+  gap: 2rem;
+  /* justify-content: center; */
+  align-items: center;
+}
+
+#price {
+  color: hsl(158, 36%, 37%);
+  font-family: "Zodiak", serif;
+  font-size: 32px;
+  font-weight: 800;
+}
+
+button,
+button:hover {
+  font-family: "Montserrat", sans-serif;
+  margin-top: 1.5rem;
+  background-color: hsl(158, 36%, 37%);
+  color: white;
+  width: 15rem;
+  height: 3rem;
+  border-style: none;
+  border-radius: 0.5rem;
+  align-items: center;
+}
+
+button:hover {
+  background-color: hsl(158, 37%, 27%);
+}
